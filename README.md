@@ -133,10 +133,8 @@ Search results lead either directly to the matching name or, as shown above, to 
 </details>
 </details>
 
-### Search page (📱 mobile, 🌙 dark mode)
-<img width=30% src="/documentation/screenshots/nome-mobile-1.jpg"/>
-  &nbsp;<img align="center" width=30% src="/documentation/screenshots/nome-mobile-2.jpg"/>
-  &nbsp;<img align="rigth" width=30% src="/documentation/screenshots/nome-mobile-3.jpg"/>
+### Name page (📱 mobile, 🌙 dark mode)
+  <img width=29% src="/documentation/screenshots/nome-mobile-1.jpg"/>&nbsp;&nbsp;<img width=29% src="/documentation/screenshots/nome-mobile-2.jpg"/>&nbsp;&nbsp;<img  width=29% src="/documentation/screenshots/nome-mobile-3.jpg"/>
 
 
 <details open>
